@@ -10,7 +10,7 @@
 # print(6 % 4)
 
 # Math Functions
-print(round(3.9))
+# print(round(3.9))
 
 # bool
 # str
@@ -24,3 +24,26 @@ print(round(3.9))
 #Specialized Data types
 # name = input("what is your name?")
 # print("hello " + name)
+
+# Operator Precedence
+# print(20 - 3 * 4)
+
+# ()
+# **
+# * /
+# + -
+
+# Binary Operator
+# print(bin(5))
+# print(int('0b101', 2))
+
+#Python Variables
+iq = 190
+
+user_age = iq / 4
+
+a = user_age
+
+print(a)
+
+# Use HI (Block Letters) to assign a constant variable in python
