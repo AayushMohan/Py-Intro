@@ -16,7 +16,7 @@
 # str
 # list
 # tuple
-# set
+set
 # dict
 
 # Classes -> custom types
