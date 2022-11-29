@@ -51,5 +51,7 @@ set
 #Augmented Assignment Operator
 some_value = 5
 some_value += 2
+some_value -= 1
+some_value *= 3
 
 print(some_value)
