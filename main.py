@@ -48,10 +48,24 @@ set
 
 # Use HI (Block Letters) to assign a constant variable in python
 
-#Augmented Assignment Operator
-some_value = 5
-some_value += 2
-some_value -= 1
-some_value *= 3
+# #Augmented Assignment Operator
+# some_value = 5
+# some_value += 2
+# some_value -= 1
+# some_value *= 3
 
-print(some_value)
+# print(some_value)
+
+#strings
+print(type('Hello'))
+username = 'World'
+password = 'Super Secret'
+
+#Long String is the way to store large text messages
+
+long_string = '''
+WOW
+O O
+---
+'''
+print(long_string)
