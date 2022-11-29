@@ -70,9 +70,13 @@ set
 # '''
 # print(long_string)
 
-first_name = 'Aayush'
-last_name = 'Mohan'
+# first_name = 'Aayush'
+# last_name = 'Mohan'
 
-full_name = first_name + ' ' + last_name
+# full_name = first_name + ' ' + last_name
 
-print(full_name)
+# print(full_name)
+
+#string concatenation
+
+print('hello ' + 'aayush')
