@@ -57,15 +57,22 @@ set
 # print(some_value)
 
 #strings
-print(type('Hello'))
-username = 'World'
-password = 'Super Secret'
+# print(type('Hello'))
+# username = 'World'
+# password = 'Super Secret'
 
 #Long String is the way to store large text messages
 
-long_string = '''
-WOW
-O O
----
-'''
-print(long_string)
+# long_string = '''
+# WOW
+# O O
+# ---
+# '''
+# print(long_string)
+
+first_name = 'Aayush'
+last_name = 'Mohan'
+
+full_name = first_name + ' ' + last_name
+
+print(full_name)
