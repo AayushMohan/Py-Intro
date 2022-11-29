@@ -38,12 +38,18 @@ set
 # print(int('0b101', 2))
 
 #Python Variables
-iq = 190
+# iq = 190
 
-user_age = iq / 4
+# user_age = iq / 4
 
-a = user_age
+# a = user_age
 
-print(a)
+# print(a)
 
 # Use HI (Block Letters) to assign a constant variable in python
+
+#Augmented Assignment Operator
+some_value = 5
+some_value += 2
+
+print(some_value)
