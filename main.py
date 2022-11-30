@@ -119,3 +119,13 @@ set
 
 # print(quote.replace('be', 'me'))
 # print(quote)
+
+#Booleans
+
+name = 'Aayush'
+
+is_cool = False
+is_cool = True
+
+
+print(is_cool)
