@@ -112,3 +112,10 @@ set
 # #[start:stop:stepover]
 
 # print(selfish[::-1])
+
+# #Built in functions + methods
+
+# quote = 'to be or not to be'
+
+# print(quote.replace('be', 'me'))
+# print(quote)
