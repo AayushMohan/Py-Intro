@@ -161,3 +161,9 @@ set
 
 # print(new_cart)
 # print(amazon_cart[0])
+
+#Matrix
+
+matrix = [[0, 5, 0],[0, 1, 0],[1, 0, 1]]
+
+print(matrix[0][1])
