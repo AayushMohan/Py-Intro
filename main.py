@@ -120,12 +120,19 @@ set
 # print(quote.replace('be', 'me'))
 # print(quote)
 
-#Booleans
+# #Booleans
 
-name = 'Aayush'
+# name = 'Aayush'
 
-is_cool = False
-is_cool = True
+# is_cool = False
+# is_cool = True
 
+# print(is_cool)
 
-print(is_cool)
+# #Type Conversion Exercise
+
+# birth_year = input('What year were you were born?')
+
+# age = 2022 - int(birth_year)
+
+# print(f'You\'re {age} years old')
