@@ -98,9 +98,17 @@ set
 
 # print(weather + day)
 
-#Formatted String
+# #Formatted String
 
-name = 'Johnny'
-age = 55
+# name = 'Johnny'
+# age = 55
 
-print(f'Hi {name}. You are {age} years old')
+# print(f'Hi {name}. You are {age} years old')
+
+# #String Indexes
+# selfish = ('01234567')
+#           # 01234567
+
+# #[start:stop:stepover]
+
+# print(selfish[::-1])
