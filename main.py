@@ -136,3 +136,16 @@ set
 # age = 2022 - int(birth_year)
 
 # print(f'You\'re {age} years old')
+
+# #Password Checker Exercise
+
+# username = input('What is your Name ')
+# password = input('What is your password ')
+
+# password_length = len(password)
+
+# hidden_password = password_length * '*'
+
+# print(
+#   f'Hello {username }, Your password, {hidden_password } is {password_length}  is letters long'
+# )
