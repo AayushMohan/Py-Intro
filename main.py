@@ -148,4 +148,11 @@ set
 
 # print(
 #   f'Hello {username }, Your password, {hidden_password } is {password_length}  is letters long'
-# )
+# )/
+
+# #Lists
+# #List in python is just like Arrays in other programming languages
+
+# amazon_cart= ['notebooks', 'shades']
+
+# print(amazon_cart[0])
