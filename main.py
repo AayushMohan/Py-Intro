@@ -88,12 +88,19 @@ set
 
 # print(c)
 
-#Escape Sequence
-# Here (\) is used to add a quotation mark in a string
-# \n is use to add a new line and \t is used to add a tab
+# #Escape Sequence
+# # Here (\) is used to add a quotation mark in a string
+# # \n is use to add a new line and \t is used to add a tab
 
-weather = ('It\'s a sunny day\n')
+# weather = ('It\'s a sunny day\n')
 
-day = ('\t It\'s perfect to go out')
+# day = ('\t It\'s perfect to go out')
 
-print(weather + day)
+# print(weather + day)
+
+#Formatted String
+
+name = 'Johnny'
+age = 55
+
+print(f'Hi {name}. You are {age} years old')
