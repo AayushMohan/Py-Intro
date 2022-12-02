@@ -173,7 +173,7 @@
 
 # # # Use Append method to add things at the end of the list
 
-# basket = ['a', 'b', 'c', 'd', 'e']
+basket = ['a', 'b', 'f', 'c', 'd', 'e']
 
 # # Use (in) keyword to get a boolean value of the list
 # print('d' in basket)
@@ -182,3 +182,9 @@
 
 # print(basket.count('d'))
 # #Use count to check how many times a value occurs in our list
+
+basket.sort() #Use sort keyword for sorting of list
+# basket.copy() #Use copy to copy the same list
+basket.reverse() #Use reverse to reverse the list
+
+print(basket)
