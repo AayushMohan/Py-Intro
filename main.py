@@ -174,6 +174,7 @@ basket = [1, 2, 3, 4, 5]
 # Use Append method to add things at the end of the list
 # Adding
 basket.append(100)
+basket.insert(0,0)
 new_list = basket
 
 print(basket)
