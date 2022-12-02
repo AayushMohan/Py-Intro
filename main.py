@@ -175,7 +175,7 @@ basket = [1, 2, 3, 4, 5]
 # Adding
 basket.append(100)
 basket.insert(0, 0)
-basket.extend([101])
+# basket.extend([101])
 
 new_list = basket
 
@@ -188,4 +188,5 @@ basket.pop(0)
 
 basket.remove(3)
 
+basket.clear()
 print(basket)
