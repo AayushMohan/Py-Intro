@@ -167,3 +167,14 @@
 # matrix = [[0, 5, 0],[0, 1, 0],[1, 0, 1]]
 
 # print(matrix[0][1])
+
+#List Methods
+basket = [1, 2, 3, 4, 5]
+
+# Use Append method to add things at the end of the list
+# Adding
+basket.append(100)
+new_list = basket
+
+print(basket)
+print(new_list)
