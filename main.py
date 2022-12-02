@@ -168,25 +168,17 @@
 
 # print(matrix[0][1])
 
-#List Methods
-basket = [1, 2, 3, 4, 5]
+### List Methods
+# basket = [1, 2, 3, 4, 5]
 
-# Use Append method to add things at the end of the list
-# Adding
-basket.append(100)
-basket.insert(0, 0)
-# basket.extend([101])
+# # # Use Append method to add things at the end of the list
 
-new_list = basket
+# basket = ['a', 'b', 'c', 'd', 'e']
 
-# print(new_list)
+# # Use (in) keyword to get a boolean value of the list
+# print('d' in basket)
 
-# Removing
-basket.pop()
-basket.pop()
-basket.pop(0)
+# print('I' in 'Hi my name is Ian')
 
-basket.remove(3)
-
-basket.clear()
-print(basket)
+# print(basket.count('d'))
+# #Use count to check how many times a value occurs in our list
