@@ -179,5 +179,13 @@ basket.extend([101])
 
 new_list = basket
 
+# print(new_list)
+
+# Removing
+basket.pop()
+basket.pop()
+basket.pop(0)
+
+basket.remove(3)
+
 print(basket)
-print(new_list)
