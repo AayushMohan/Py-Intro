@@ -203,6 +203,31 @@
 
 # print(others)
 
-#None
-score = None
-print(score)
+# #None
+# score = None
+# print(score)
+
+###Dictionary
+### Dictionary: A dictionary is an unordered key-value pair. And as long as we know the key, that is whatever the key we're looking for, then we just give that and our computer will know.
+
+# dictionary={
+#   'a': 1,
+#   'b': 2,
+#   'c': 3,
+#   'x': 4
+# }
+
+# my_list=[
+#   {
+#   'a': [1,2,3],
+#   'b': 'hello',
+#   'c': True,
+#   },
+#   {
+#   'a': [4,5,6],
+#   'b': 'bye',
+#   'c': True,
+#   }
+# ]
+
+# print(my_list[0] ['a'][2])
