@@ -173,7 +173,7 @@
 
 # # # Use Append method to add things at the end of the list
 
-basket = ['a', 'b', 'f', 'c', 'd', 'e']
+# basket = ['a', 'b', 'f', 'c', 'd', 'e']
 
 # # Use (in) keyword to get a boolean value of the list
 # print('d' in basket)
@@ -183,8 +183,22 @@ basket = ['a', 'b', 'f', 'c', 'd', 'e']
 # print(basket.count('d'))
 # #Use count to check how many times a value occurs in our list
 
-basket.sort() #Use sort keyword for sorting of list
+# basket.sort() #Use sort keyword for sorting of list
 # basket.copy() #Use copy to copy the same list
-basket.reverse() #Use reverse to reverse the list
+# basket.reverse() #Use reverse to reverse the list
 
-print(basket)
+# print(basket[:])
+# print(len(basket))
+
+# Use list range to find the range of the list or To Generate a list
+# print(list(range(101)))
+
+# #list unpacking
+# #use *others for unpacking the list
+# a, b, c, *others = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# print(a)
+# print(b)
+# print(c)
+
+# print(others)
