@@ -202,3 +202,7 @@
 # print(c)
 
 # print(others)
+
+#None
+score = None
+print(score)
