@@ -211,10 +211,11 @@
 ### Dictionary: A dictionary is an unordered key-value pair. And as long as we know the key, that is whatever the key we're looking for, then we just give that and our computer will know.
 
 # dictionary={
-#   'a': 1,
-#   'b': 2,
-#   'c': 3,
-#   'x': 4
+#   {
+#   'a': [1,2,3],
+#   'b': 'hello',
+#   'c': True,
+#   },
 # }
 
 # my_list=[
