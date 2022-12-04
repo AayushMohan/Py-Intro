@@ -265,9 +265,17 @@
 # print(user.update({'age': 56})) #use .update() to update the dictionary with specified key value pairs
 # print(user)
 
-#Tuple
+# #Tuple
+
+# my_tuple = (1, 2, 3, 4, 5)
+# print(5 in my_tuple)
+
+# user = {(1, 2): [1, 2, 3], 'greet': 'hello', 'age': 20}
+
+# x, y, z, *other = (1, 2, 3, 4, 5)
+
+# print(other)
 
 my_tuple = (1, 2, 3, 4, 5)
-print(5 in my_tuple)
 
-user = {(1, 2): [1, 2, 3], 'greet': 'hello', 'age': 20}
+print(my_tuple.count(5)) # use .count to check how many items are in the list
