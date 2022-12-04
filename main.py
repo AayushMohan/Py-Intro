@@ -257,7 +257,10 @@ user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
 # user2 = user.copy() #use .copy() to return a copy of the dictionary
 
-# print(user.clear()) 
+# print(user.clear())
 # print(user2)
 
-print(user.popitem()) #use .popitem() to remove the last inserted key value pair
+# print(user.popitem()) #use .popitem() to remove the last inserted key value pair
+
+print(user.update({'age': 56})) #use .update() to update the dictionary with specified key value pairs
+print(user) 
