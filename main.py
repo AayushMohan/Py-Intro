@@ -276,6 +276,12 @@
 
 # print(other)
 
-my_tuple = (1, 2, 3, 4, 5)
+# my_tuple = (1, 2, 3, 4, 5)
 
-print(my_tuple.count(5)) # use .count to check how many items are in the list
+# print(my_tuple.count(5)) # use .count to check how many items are in the list
+
+# my_set = {1, 2, 3, 4, 5, 5}
+# # my_set.age(100)
+# # my_set.add(2)
+# new_set = my_set.copy()
+# print(list(new_set))
