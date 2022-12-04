@@ -245,7 +245,7 @@
 
 #Dictionary Method 2
 
-user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
+# user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
 # print('Hello' in user.keys()) #use .keys() to return a list containing the dictionary's keys
 
@@ -262,5 +262,12 @@ user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
 # print(user.popitem()) #use .popitem() to remove the last inserted key value pair
 
-print(user.update({'age': 56})) #use .update() to update the dictionary with specified key value pairs
-print(user) 
+# print(user.update({'age': 56})) #use .update() to update the dictionary with specified key value pairs
+# print(user)
+
+#Tuple
+
+my_tuple = (1, 2, 3, 4, 5)
+print(5 in my_tuple)
+
+user = {(1, 2): [1, 2, 3], 'greet': 'hello', 'age': 20}
