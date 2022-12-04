@@ -233,12 +233,19 @@
 
 # print(my_list[0] ['a'][2])
 
-#Dictionary Method
+# #Dictionary Method
+# user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
+
+# print(user.get('age', 55))
+
+# # Uncommon Way of Creating a dictionary
+
+# user2 = dict(name="JohnJohn")
+# print(user2)
+
+#Dictionary Method 2
+
 user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
-print(user.get('age', 55))
+print('Hello' in user.keys()) #use .keys() to return a list containing the dictionary's keys
 
-# Uncommon Way of Creating a dictionary
-
-user2 = dict(name="JohnJohn")
-print(user2)
