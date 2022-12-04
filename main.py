@@ -232,3 +232,8 @@
 # ]
 
 # print(my_list[0] ['a'][2])
+
+#Dictionary Method
+user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
+
+print(user.get('age', 55))
