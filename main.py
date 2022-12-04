@@ -253,5 +253,9 @@ user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
 # print(user.items()) #use .items() to return a list containing a tuple for each key value pair.
 
-print(user.clear()) #use .clear() to remove all the elements from the dictionary
+# print(user.clear()) #use .clear() to remove all the elements from the dictionary
 
+user2 = user.copy() #use .copy() to return a copy of the dictionary
+
+print(user.clear()) 
+print(user2)
