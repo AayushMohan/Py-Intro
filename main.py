@@ -237,3 +237,8 @@
 user = {'basket': [1, 2, 3], 'greet': 'Hello', 'age': 20}
 
 print(user.get('age', 55))
+
+# Uncommon Way of Creating a dictionary
+
+user2 = dict(name="JohnJohn")
+print(user2)
