@@ -285,3 +285,16 @@
 # # my_set.add(2)
 # new_set = my_set.copy()
 # print(list(new_set))
+
+#sets 2
+
+my_set = {4, 5}
+your_set = {4, 5, 6, 7, 8, 9, 10}
+
+# print(my_set.difference(your_set))
+# print(my_set.difference(5))
+# print(my_set)
+# print()
+
+print(my_set.issubset(your_set))
+print(my_set.issuperset(your_set))
