@@ -296,5 +296,18 @@ your_set = {4, 5, 6, 7, 8, 9, 10}
 # print(my_set)
 # print()
 
-print(my_set.issubset(your_set))
-print(my_set.issuperset(your_set))
+# print(my_set.issubset(your_set))
+# print(my_set.issuperset(your_set))
+
+#Conditionals
+
+is_old = True
+
+is_licenced = True
+
+if is_old:
+  print("You are Old enough")
+elif is_licenced: ("You can drive now!")
+else: print("You are not of age!")
+
+print("OkOk")
